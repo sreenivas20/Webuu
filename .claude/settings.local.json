@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"C:\\\\Users\\\\sreen\\\\OneDrive\\\\Documents\\\\Projects\\\\Webuu\\\\frontend\\\\app\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\sreen\\\\OneDrive\\\\Documents\\\\Projects\\\\Webuu\\\\frontend\\\\components\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\sreen\\\\OneDrive\\\\Documents\\\\Projects\\\\Webuu\\\\backend\")"
+    ]
+  }
+}
